@@ -1,0 +1,14 @@
+CHANGES:
+
+Version 2 has been added the following important changes:
+
+- A Fallen Star will now disappear when picked up and will reappear once it has been traded.
+- The State Machine for the Starchaser has been improved and moved to another location.
+- The window can now be resized to fully reveal the area drawn to.
+- Fixed several freezing problems when editing entity locations.
+
+
+by
+Jeppe Willatzen
+Uppsala University
+03-29-2019
